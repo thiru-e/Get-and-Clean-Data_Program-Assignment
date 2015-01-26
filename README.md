@@ -79,9 +79,11 @@ The following steps were followed during this assignment process:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Notes: 
+NOTES: 
 1. 	The dimensions of 'tidy_dataset.txt' are 10299 X 81
+
 2.	The dimensions of 'tidy_mean.txt' are 180 X 3
+
 3.	The tidy data follows the three following principles - 
 		* Each variable forms a column.
 		* Each observation forms a row
